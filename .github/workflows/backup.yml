@@ -1,8 +1,7 @@
 name: Daily Gist Backup
 
 on:
-  repository_dispatch:
-    types: [trigger-backup] # Custom event name
+  workflow_dispatch: # Allows it to be triggered externally via API/token
 
 jobs:
   backup:
