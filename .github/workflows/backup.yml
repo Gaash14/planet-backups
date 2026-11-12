@@ -1,0 +1,30 @@
+name: Daily Gist Backup
+
+on:
+  workflow_dispatch: # Allows it to be triggered externally via API/token
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download Gists JSON
+        run: |
+          DATE=$(date -u +'%Y-%m-%d')
+          mkdir -p daily-backups/$DATE
+          
+          # Gist 1
+          curl -s "https://gist.githubusercontent.com/Gaash14/a12b463cc829c43a7ab0bf8385f1be63/raw/first-schedule.json" -o "daily-backups/$DATE/first-schedule.json"
+          
+          # Gist 2
+          curl -s "https://gist.githubusercontent.com/Gaash14/da630d78754949bce95065eadb9fd370/raw/history.json" -o "daily-backups/$DATE/history.json"
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "bot@users.noreply.github.com"
+          git add daily-backups/
+          git commit -m "Auto-backup gists for $(date -u +'%Y-%m-%d')" || echo "No changes to commit"
+          git push
