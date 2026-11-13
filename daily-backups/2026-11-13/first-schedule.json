@@ -1,0 +1,949 @@
+{
+    "date": "2026-11-13",
+    "screenings": [
+        {
+            "presentationCode": "363010",
+            "room": "1",
+            "start": "00:00",
+            "end": "01:30",
+            "title": "עלי ג'י: אני מי?",
+            "availabilityRatio": 0.9756
+        },
+        {
+            "presentationCode": "362992",
+            "room": "1",
+            "start": "10:00",
+            "end": "11:30",
+            "title": "עלי ג'י: אני מי?",
+            "availabilityRatio": 0.9756
+        },
+        {
+            "presentationCode": "363008",
+            "room": "1",
+            "start": "12:00",
+            "end": "13:30",
+            "title": "עלי ג'י: אני מי?",
+            "availabilityRatio": 0.9756
+        },
+        {
+            "presentationCode": "363009",
+            "room": "1",
+            "start": "14:00",
+            "end": "15:30",
+            "title": "עלי ג'י: אני מי?",
+            "availabilityRatio": 0.9756
+        },
+        {
+            "presentationCode": "362990",
+            "room": "1",
+            "start": "16:00",
+            "end": "17:30",
+            "title": "עלי ג'י: אני מי?",
+            "availabilityRatio": 0.9756
+        },
+        {
+            "presentationCode": "362989",
+            "room": "1",
+            "start": "18:00",
+            "end": "19:30",
+            "title": "עלי ג'י: אני מי?",
+            "availabilityRatio": 0.9756
+        },
+        {
+            "presentationCode": "362988",
+            "room": "1",
+            "start": "20:00",
+            "end": "21:30",
+            "title": "עלי ג'י: אני מי?",
+            "availabilityRatio": 0.9431
+        },
+        {
+            "presentationCode": "362987",
+            "room": "1",
+            "start": "22:00",
+            "end": "23:30",
+            "title": "עלי ג'י: אני מי?",
+            "availabilityRatio": 0.9431
+        },
+        {
+            "presentationCode": "363012",
+            "room": "2",
+            "start": "10:15",
+            "end": "11:53",
+            "title": "הנמלט",
+            "availabilityRatio": 0.9756
+        },
+        {
+            "presentationCode": "363013",
+            "room": "2",
+            "start": "12:30",
+            "end": "14:08",
+            "title": "הנמלט",
+            "availabilityRatio": 0.9756
+        },
+        {
+            "presentationCode": "362983",
+            "room": "2",
+            "start": "14:45",
+            "end": "16:30",
+            "title": "בחורים טובים 3",
+            "availabilityRatio": 0.9756
+        },
+        {
+            "presentationCode": "362986",
+            "room": "2",
+            "start": "17:00",
+            "end": "18:38",
+            "title": "הנמלט",
+            "availabilityRatio": 0.9675
+        },
+        {
+            "presentationCode": "362985",
+            "room": "2",
+            "start": "19:15",
+            "end": "20:53",
+            "title": "הנמלט",
+            "availabilityRatio": 0.9431
+        },
+        {
+            "presentationCode": "362984",
+            "room": "2",
+            "start": "21:30",
+            "end": "23:08",
+            "title": "הנמלט",
+            "availabilityRatio": 0.7805
+        },
+        {
+            "presentationCode": "363011",
+            "room": "2",
+            "start": "23:45",
+            "end": "01:23",
+            "title": "הנמלט",
+            "availabilityRatio": 0.9756
+        },
+        {
+            "presentationCode": "363014",
+            "room": "3",
+            "start": "10:00",
+            "end": "11:39",
+            "title": "החיה",
+            "availabilityRatio": 0.9876
+        },
+        {
+            "presentationCode": "363015",
+            "room": "3",
+            "start": "12:15",
+            "end": "13:54",
+            "title": "החיה",
+            "availabilityRatio": 0.9876
+        },
+        {
+            "presentationCode": "362982",
+            "room": "3",
+            "start": "14:30",
+            "end": "16:11",
+            "title": "בלב הפרא",
+            "availabilityRatio": 0.9503
+        },
+        {
+            "presentationCode": "362971",
+            "room": "3",
+            "start": "16:45",
+            "end": "18:26",
+            "title": "בלב הפרא",
+            "availabilityRatio": 0.9876
+        },
+        {
+            "presentationCode": "362980",
+            "room": "3",
+            "start": "19:00",
+            "end": "20:39",
+            "title": "החיה",
+            "availabilityRatio": 0.9752
+        },
+        {
+            "presentationCode": "362979",
+            "room": "3",
+            "start": "21:15",
+            "end": "22:54",
+            "title": "החיה",
+            "availabilityRatio": 0.9627
+        },
+        {
+            "presentationCode": "363016",
+            "room": "3",
+            "start": "23:30",
+            "end": "01:26",
+            "title": "תעתוע",
+            "availabilityRatio": 0.9876
+        },
+        {
+            "presentationCode": "363017",
+            "room": "4",
+            "start": "11:45",
+            "end": "13:31",
+            "title": "הכישרון של גברת הייסמית'",
+            "availabilityRatio": 0.9815
+        },
+        {
+            "presentationCode": "362978",
+            "room": "4",
+            "start": "14:00",
+            "end": "15:46",
+            "title": "הכישרון של גברת הייסמית'",
+            "availabilityRatio": 0.9815
+        },
+        {
+            "presentationCode": "362977",
+            "room": "4",
+            "start": "16:15",
+            "end": "18:01",
+            "title": "הכישרון של גברת הייסמית'",
+            "availabilityRatio": 0.9815
+        },
+        {
+            "presentationCode": "362976",
+            "room": "4",
+            "start": "18:30",
+            "end": "20:16",
+            "title": "הכישרון של גברת הייסמית'",
+            "availabilityRatio": 0.9506
+        },
+        {
+            "presentationCode": "362975",
+            "room": "4",
+            "start": "20:45",
+            "end": "22:31",
+            "title": "הכישרון של גברת הייסמית'",
+            "availabilityRatio": 0.9815
+        },
+        {
+            "presentationCode": "363018",
+            "room": "4",
+            "start": "23:00",
+            "end": "00:46",
+            "title": "הכישרון של גברת הייסמית'",
+            "availabilityRatio": 0.9691
+        },
+        {
+            "presentationCode": "363101",
+            "room": "5",
+            "start": "09:45",
+            "end": "13:00",
+            "title": "ראמאיאנה: אגדה עולה",
+            "availabilityRatio": 0.975
+        },
+        {
+            "presentationCode": "363103",
+            "room": "5",
+            "start": "13:25",
+            "end": "16:40",
+            "title": "ראמאיאנה: אגדה עולה",
+            "availabilityRatio": 0.975
+        },
+        {
+            "presentationCode": "362931",
+            "room": "5",
+            "start": "17:05",
+            "end": "19:57",
+            "title": "האודיסאה",
+            "availabilityRatio": 0.94
+        },
+        {
+            "presentationCode": "362930",
+            "room": "5",
+            "start": "20:25",
+            "end": "23:17",
+            "title": "האודיסאה",
+            "availabilityRatio": 0.8775
+        },
+        {
+            "presentationCode": "363019",
+            "room": "5",
+            "start": "23:45",
+            "end": "02:37",
+            "title": "האודיסאה",
+            "availabilityRatio": 0.9875
+        },
+        {
+            "presentationCode": "362974",
+            "room": "6",
+            "start": "14:00",
+            "end": "15:57",
+            "title": "האהבות שלנו",
+            "availabilityRatio": 0.9672
+        },
+        {
+            "presentationCode": "362973",
+            "room": "6",
+            "start": "16:30",
+            "end": "18:27",
+            "title": "האהבות שלנו",
+            "availabilityRatio": 0.9836
+        },
+        {
+            "presentationCode": "362972",
+            "room": "6",
+            "start": "19:00",
+            "end": "20:57",
+            "title": "האהבות שלנו",
+            "availabilityRatio": 0.959
+        },
+        {
+            "presentationCode": "362981",
+            "room": "6",
+            "start": "21:30",
+            "end": "23:05",
+            "title": "מאבדים שליטה",
+            "availabilityRatio": 0.918
+        },
+        {
+            "presentationCode": "363023",
+            "room": "6",
+            "start": "23:30",
+            "end": "01:05",
+            "title": "מאבדים שליטה",
+            "availabilityRatio": 0.9672
+        },
+        {
+            "presentationCode": "363007",
+            "room": "7",
+            "start": "14:15",
+            "end": "16:15",
+            "title": "סוס פרא תשע",
+            "availabilityRatio": 0.9936
+        },
+        {
+            "presentationCode": "363025",
+            "room": "7",
+            "start": "20:10",
+            "end": "22:10",
+            "title": "СКРУДЖ - Ebenezer",
+            "availabilityRatio": 0.8978
+        },
+        {
+            "presentationCode": "363005",
+            "room": "7",
+            "start": "22:40",
+            "end": "00:36",
+            "title": "תעתוע",
+            "availabilityRatio": 0.9681
+        },
+        {
+            "presentationCode": "363039",
+            "room": "8",
+            "start": "00:00",
+            "end": "01:50",
+            "title": "אובססיה",
+            "availabilityRatio": 0.9477
+        },
+        {
+            "presentationCode": "363001",
+            "room": "8",
+            "start": "15:30",
+            "end": "16:50",
+            "title": "שון כבשון: מצמרר מצחוק",
+            "availabilityRatio": 0.9804
+        },
+        {
+            "presentationCode": "363030",
+            "room": "8",
+            "start": "17:15",
+            "end": "18:49",
+            "title": "הסתברות לאהבה",
+            "availabilityRatio": 0.9804
+        },
+        {
+            "presentationCode": "363036",
+            "room": "8",
+            "start": "19:20",
+            "end": "21:01",
+            "title": "Heart of the Beast - СЕРДЦЕ ЗВЕРЯ",
+            "availabilityRatio": 0.8824
+        },
+        {
+            "presentationCode": "363035",
+            "room": "8",
+            "start": "21:40",
+            "end": "23:25",
+            "title": "בעל בהזמנה",
+            "availabilityRatio": 0.9412
+        },
+        {
+            "presentationCode": "363056",
+            "room": "9",
+            "start": "16:15",
+            "end": "17:46",
+            "title": "קופה ראשית",
+            "availabilityRatio": 0.9425
+        },
+        {
+            "presentationCode": "363046",
+            "room": "9",
+            "start": "18:15",
+            "end": "20:34",
+            "title": "יער פרא",
+            "availabilityRatio": 0.7816
+        },
+        {
+            "presentationCode": "363047",
+            "room": "9",
+            "start": "21:00",
+            "end": "23:19",
+            "title": "יער פרא",
+            "availabilityRatio": 0.9195
+        },
+        {
+            "presentationCode": "363049",
+            "room": "9",
+            "start": "23:50",
+            "end": "02:09",
+            "title": "יער פרא",
+            "availabilityRatio": 1.0
+        },
+        {
+            "presentationCode": "362998",
+            "room": "10",
+            "start": "15:15",
+            "end": "17:15",
+            "title": "איך לשדוד בנק",
+            "availabilityRatio": 0.9862
+        },
+        {
+            "presentationCode": "362997",
+            "room": "10",
+            "start": "17:45",
+            "end": "19:45",
+            "title": "איך לשדוד בנק",
+            "availabilityRatio": 0.977
+        },
+        {
+            "presentationCode": "362996",
+            "room": "10",
+            "start": "20:15",
+            "end": "22:15",
+            "title": "איך לשדוד בנק",
+            "availabilityRatio": 0.9401
+        },
+        {
+            "presentationCode": "362995",
+            "room": "10",
+            "start": "22:45",
+            "end": "00:45",
+            "title": "איך לשדוד בנק",
+            "availabilityRatio": 0.9677
+        },
+        {
+            "presentationCode": "362994",
+            "room": "11",
+            "start": "14:15",
+            "end": "15:57",
+            "title": "הבדחן",
+            "availabilityRatio": 0.992
+        },
+        {
+            "presentationCode": "362993",
+            "room": "11",
+            "start": "16:30",
+            "end": "18:12",
+            "title": "הבדחן",
+            "availabilityRatio": 0.992
+        },
+        {
+            "presentationCode": "362956",
+            "room": "11",
+            "start": "18:45",
+            "end": "20:27",
+            "title": "הבדחן",
+            "availabilityRatio": 0.9681
+        },
+        {
+            "presentationCode": "363000",
+            "room": "11",
+            "start": "21:00",
+            "end": "22:42",
+            "title": "הבדחן",
+            "availabilityRatio": 0.9841
+        },
+        {
+            "presentationCode": "363076",
+            "room": "11",
+            "start": "23:15",
+            "end": "00:57",
+            "title": "הבדחן",
+            "availabilityRatio": 0.992
+        },
+        {
+            "presentationCode": "363227",
+            "room": "12",
+            "start": "00:00",
+            "end": "02:00",
+            "title": "סקרוג'",
+            "availabilityRatio": 0.9744
+        },
+        {
+            "presentationCode": "362953",
+            "room": "12",
+            "start": "14:15",
+            "end": "16:04",
+            "title": "עצמאות",
+            "availabilityRatio": 0.9744
+        },
+        {
+            "presentationCode": "362943",
+            "room": "12",
+            "start": "16:30",
+            "end": "18:30",
+            "title": "סקרוג'",
+            "availabilityRatio": 0.9573
+        },
+        {
+            "presentationCode": "362955",
+            "room": "12",
+            "start": "19:00",
+            "end": "21:00",
+            "title": "סקרוג'",
+            "availabilityRatio": 0.8632
+        },
+        {
+            "presentationCode": "362954",
+            "room": "12",
+            "start": "21:30",
+            "end": "23:30",
+            "title": "סקרוג'",
+            "availabilityRatio": 0.8376
+        },
+        {
+            "presentationCode": "362952",
+            "room": "13",
+            "start": "00:00",
+            "end": "01:44",
+            "title": "בויאונה: המפלצת מהאמזונס",
+            "availabilityRatio": 0.9746
+        },
+        {
+            "presentationCode": "362950",
+            "room": "13",
+            "start": "14:45",
+            "end": "16:33",
+            "title": "פרלה",
+            "availabilityRatio": 0.9746
+        },
+        {
+            "presentationCode": "362951",
+            "room": "13",
+            "start": "17:00",
+            "end": "18:45",
+            "title": "בחורים טובים 3",
+            "availabilityRatio": 0.9746
+        },
+        {
+            "presentationCode": "362949",
+            "room": "13",
+            "start": "19:10",
+            "end": "20:58",
+            "title": "פרלה",
+            "availabilityRatio": 0.8983
+        },
+        {
+            "presentationCode": "363244",
+            "room": "13",
+            "start": "21:25",
+            "end": "23:31",
+            "title": "באטמן (1989)",
+            "availabilityRatio": 0.9237
+        },
+        {
+            "presentationCode": "363297",
+            "room": "14",
+            "start": "00:00",
+            "end": "01:33",
+            "title": "אין כמו אמא",
+            "availabilityRatio": 0.9153
+        },
+        {
+            "presentationCode": "363303",
+            "room": "14",
+            "start": "10:15",
+            "end": "13:07",
+            "title": "האודיסאה",
+            "availabilityRatio": 0.9407
+        },
+        {
+            "presentationCode": "362944",
+            "room": "14",
+            "start": "13:35",
+            "end": "15:05",
+            "title": "שרק - חגיגות 25 שנה!",
+            "availabilityRatio": 0.9746
+        },
+        {
+            "presentationCode": "362947",
+            "room": "14",
+            "start": "15:30",
+            "end": "17:00",
+            "title": "שרק - חגיגות 25 שנה!",
+            "availabilityRatio": 0.9407
+        },
+        {
+            "presentationCode": "362945",
+            "room": "14",
+            "start": "17:30",
+            "end": "19:00",
+            "title": "שרק - חגיגות 25 שנה!",
+            "availabilityRatio": 0.9237
+        },
+        {
+            "presentationCode": "362948",
+            "room": "14",
+            "start": "19:30",
+            "end": "21:18",
+            "title": "КЛЭЙФЕЙС - Clayface",
+            "availabilityRatio": 0.9492
+        },
+        {
+            "presentationCode": "362946",
+            "room": "14",
+            "start": "21:45",
+            "end": "23:33",
+            "title": "קלייפייס",
+            "availabilityRatio": 0.839
+        },
+        {
+            "presentationCode": "363308",
+            "room": "15",
+            "start": "10:15",
+            "end": "13:30",
+            "title": "ראמאיאנה: אגדה עולה",
+            "availabilityRatio": 0.9746
+        },
+        {
+            "presentationCode": "362957",
+            "room": "15",
+            "start": "14:00",
+            "end": "16:52",
+            "title": "האודיסאה",
+            "availabilityRatio": 0.9407
+        },
+        {
+            "presentationCode": "362958",
+            "room": "15",
+            "start": "17:15",
+            "end": "20:30",
+            "title": "ראמאיאנה: אגדה עולה",
+            "availabilityRatio": 0.9746
+        },
+        {
+            "presentationCode": "362959",
+            "room": "15",
+            "start": "21:00",
+            "end": "00:15",
+            "title": "ראמאיאנה: אגדה עולה",
+            "availabilityRatio": 0.9746
+        },
+        {
+            "presentationCode": "363310",
+            "room": "16",
+            "start": "12:20",
+            "end": "14:40",
+            "title": "שם קוד טהרן",
+            "availabilityRatio": 0.9835
+        },
+        {
+            "presentationCode": "362960",
+            "room": "16",
+            "start": "15:10",
+            "end": "17:30",
+            "title": "שם קוד טהרן",
+            "availabilityRatio": 0.9835
+        },
+        {
+            "presentationCode": "362961",
+            "room": "16",
+            "start": "18:00",
+            "end": "20:20",
+            "title": "שם קוד טהרן",
+            "availabilityRatio": 0.9505
+        },
+        {
+            "presentationCode": "362962",
+            "room": "16",
+            "start": "20:50",
+            "end": "23:10",
+            "title": "שם קוד טהרן",
+            "availabilityRatio": 0.8846
+        },
+        {
+            "presentationCode": "363311",
+            "room": "16",
+            "start": "23:40",
+            "end": "02:00",
+            "title": "שם קוד טהרן",
+            "availabilityRatio": 0.9725
+        },
+        {
+            "presentationCode": "363315",
+            "room": "17",
+            "start": "10:00",
+            "end": "11:43",
+            "title": "מחר יהיה טוב",
+            "availabilityRatio": 0.9835
+        },
+        {
+            "presentationCode": "363316",
+            "room": "17",
+            "start": "12:15",
+            "end": "13:58",
+            "title": "מחר יהיה טוב",
+            "availabilityRatio": 0.9835
+        },
+        {
+            "presentationCode": "362966",
+            "room": "17",
+            "start": "14:30",
+            "end": "15:58",
+            "title": "פיניק: להציל את המפלצות",
+            "availabilityRatio": 0.9835
+        },
+        {
+            "presentationCode": "362963",
+            "room": "17",
+            "start": "16:30",
+            "end": "18:13",
+            "title": "מחר יהיה טוב",
+            "availabilityRatio": 0.9725
+        },
+        {
+            "presentationCode": "362964",
+            "room": "17",
+            "start": "18:45",
+            "end": "20:28",
+            "title": "מחר יהיה טוב",
+            "availabilityRatio": 0.9835
+        },
+        {
+            "presentationCode": "362965",
+            "room": "17",
+            "start": "21:00",
+            "end": "22:43",
+            "title": "מחר יהיה טוב",
+            "availabilityRatio": 0.9835
+        },
+        {
+            "presentationCode": "363314",
+            "room": "17",
+            "start": "23:15",
+            "end": "00:58",
+            "title": "מחר יהיה טוב",
+            "availabilityRatio": 0.9615
+        },
+        {
+            "presentationCode": "363320",
+            "room": "18",
+            "start": "00:00",
+            "end": "01:23",
+            "title": "חזרזיר: הלילה האחרון",
+            "availabilityRatio": 0.973
+        },
+        {
+            "presentationCode": "363318",
+            "room": "18",
+            "start": "10:00",
+            "end": "12:03",
+            "title": "האישה העשירה בעולם",
+            "availabilityRatio": 0.973
+        },
+        {
+            "presentationCode": "363319",
+            "room": "18",
+            "start": "12:30",
+            "end": "14:33",
+            "title": "האישה העשירה בעולם",
+            "availabilityRatio": 0.973
+        },
+        {
+            "presentationCode": "362967",
+            "room": "18",
+            "start": "15:00",
+            "end": "17:03",
+            "title": "האישה העשירה בעולם",
+            "availabilityRatio": 0.973
+        },
+        {
+            "presentationCode": "362969",
+            "room": "18",
+            "start": "17:30",
+            "end": "18:57",
+            "title": "תמונות יפואיות 2",
+            "availabilityRatio": 0.955
+        },
+        {
+            "presentationCode": "363317",
+            "room": "18",
+            "start": "19:30",
+            "end": "21:36",
+            "title": "באטמן (1989)",
+            "availabilityRatio": 0.9369
+        },
+        {
+            "presentationCode": "362970",
+            "room": "18",
+            "start": "22:00",
+            "end": "23:27",
+            "title": "תמונות יפואיות 2",
+            "availabilityRatio": 0.9279
+        },
+        {
+            "presentationCode": "363321",
+            "room": "19",
+            "start": "12:15",
+            "end": "15:30",
+            "title": "ראמאיאנה: אגדה עולה",
+            "availabilityRatio": 0.9902
+        },
+        {
+            "presentationCode": "362932",
+            "room": "19",
+            "start": "16:00",
+            "end": "19:15",
+            "title": "ראמאיאנה: אגדה עולה",
+            "availabilityRatio": 0.9902
+        },
+        {
+            "presentationCode": "362933",
+            "room": "19",
+            "start": "19:45",
+            "end": "23:00",
+            "title": "ראמאיאנה: אגדה עולה",
+            "availabilityRatio": 0.9804
+        },
+        {
+            "presentationCode": "363322",
+            "room": "19",
+            "start": "23:30",
+            "end": "01:18",
+            "title": "קלייפייס",
+            "availabilityRatio": 0.9804
+        },
+        {
+            "presentationCode": "363717",
+            "room": "21",
+            "start": "00:20",
+            "end": "01:53",
+            "title": "אין כמו אמא",
+            "availabilityRatio": 1.0
+        },
+        {
+            "presentationCode": "362934",
+            "room": "21",
+            "start": "17:00",
+            "end": "18:42",
+            "title": "הבדחן",
+            "availabilityRatio": 1.0
+        },
+        {
+            "presentationCode": "362935",
+            "room": "21",
+            "start": "19:30",
+            "end": "21:12",
+            "title": "הבדחן",
+            "availabilityRatio": 0.9259
+        },
+        {
+            "presentationCode": "363323",
+            "room": "21",
+            "start": "22:00",
+            "end": "23:42",
+            "title": "הבדחן",
+            "availabilityRatio": 0.8889
+        },
+        {
+            "presentationCode": "363325",
+            "room": "22",
+            "start": "00:00",
+            "end": "02:00",
+            "title": "איך לשדוד בנק",
+            "availabilityRatio": 0.963
+        },
+        {
+            "presentationCode": "363716",
+            "room": "22",
+            "start": "16:50",
+            "end": "18:31",
+            "title": "בלב הפרא",
+            "availabilityRatio": 1.0
+        },
+        {
+            "presentationCode": "362936",
+            "room": "22",
+            "start": "19:00",
+            "end": "21:00",
+            "title": "איך לשדוד בנק",
+            "availabilityRatio": 0.6296
+        },
+        {
+            "presentationCode": "363324",
+            "room": "22",
+            "start": "21:30",
+            "end": "23:26",
+            "title": "ТАЙНЫЙ ДНЕВНИК ВЕРИТИ - Verity",
+            "availabilityRatio": 0.8148
+        },
+        {
+            "presentationCode": "363718",
+            "room": "23",
+            "start": "00:20",
+            "end": "02:08",
+            "title": "קלייפייס",
+            "availabilityRatio": 1.0
+        },
+        {
+            "presentationCode": "362929",
+            "room": "23",
+            "start": "17:00",
+            "end": "19:00",
+            "title": "איך לשדוד בנק",
+            "availabilityRatio": 1.0
+        },
+        {
+            "presentationCode": "362938",
+            "room": "23",
+            "start": "19:30",
+            "end": "21:00",
+            "title": "עלי ג'י: אני מי?",
+            "availabilityRatio": 0.9714
+        },
+        {
+            "presentationCode": "362941",
+            "room": "23",
+            "start": "21:30",
+            "end": "23:50",
+            "title": "שם קוד טהרן",
+            "availabilityRatio": 0.7143
+        },
+        {
+            "presentationCode": "362940",
+            "room": "24",
+            "start": "18:00",
+            "end": "20:20",
+            "title": "שם קוד טהרן",
+            "availabilityRatio": 0.6786
+        },
+        {
+            "presentationCode": "363708",
+            "room": "24",
+            "start": "20:50",
+            "end": "22:31",
+            "title": "בלב הפרא",
+            "availabilityRatio": 0.8036
+        },
+        {
+            "presentationCode": "363704",
+            "room": "24",
+            "start": "23:00",
+            "end": "01:20",
+            "title": "שם קוד טהרן",
+            "availabilityRatio": 0.9643
+        }
+    ]
+}
