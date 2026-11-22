@@ -1,0 +1,350 @@
+{
+  "date": "2026-11-22",
+  "updatedAt": "2026-11-22T20:45:23.663808+00:00",
+  "screenings": [
+    {
+      "presentationCode": "365646",
+      "availabilityRatio": 0.9024
+    },
+    {
+      "presentationCode": "365815",
+      "availabilityRatio": 0.9593
+    },
+    {
+      "presentationCode": "365816",
+      "availabilityRatio": 0.9756
+    },
+    {
+      "presentationCode": "365818",
+      "availabilityRatio": 0.9512
+    },
+    {
+      "presentationCode": "365819",
+      "availabilityRatio": 0.9756
+    },
+    {
+      "presentationCode": "365830",
+      "availabilityRatio": 0.9431
+    },
+    {
+      "presentationCode": "365833",
+      "availabilityRatio": 0.9024
+    },
+    {
+      "presentationCode": "365835",
+      "availabilityRatio": 0.8537
+    },
+    {
+      "presentationCode": "365839",
+      "availabilityRatio": 0.9593
+    },
+    {
+      "presentationCode": "365916",
+      "availabilityRatio": 0.9876
+    },
+    {
+      "presentationCode": "365917",
+      "availabilityRatio": 0.9876
+    },
+    {
+      "presentationCode": "365918",
+      "availabilityRatio": 0.9814
+    },
+    {
+      "presentationCode": "365919",
+      "availabilityRatio": 0.9565
+    },
+    {
+      "presentationCode": "365920",
+      "availabilityRatio": 0.9691
+    },
+    {
+      "presentationCode": "365921",
+      "availabilityRatio": 0.9753
+    },
+    {
+      "presentationCode": "365922",
+      "availabilityRatio": 0.9691
+    },
+    {
+      "presentationCode": "365923",
+      "availabilityRatio": 0.9815
+    },
+    {
+      "presentationCode": "365924",
+      "availabilityRatio": 0.9575
+    },
+    {
+      "presentationCode": "365925",
+      "availabilityRatio": 0.9075
+    },
+    {
+      "presentationCode": "365926",
+      "availabilityRatio": 0.6875
+    },
+    {
+      "presentationCode": "365927",
+      "availabilityRatio": 0.918
+    },
+    {
+      "presentationCode": "365928",
+      "availabilityRatio": 0.9344
+    },
+    {
+      "presentationCode": "365929",
+      "availabilityRatio": 0.9836
+    },
+    {
+      "presentationCode": "365930",
+      "availabilityRatio": 0.8689
+    },
+    {
+      "presentationCode": "365931",
+      "availabilityRatio": 0.9744
+    },
+    {
+      "presentationCode": "365932",
+      "availabilityRatio": 0.9457
+    },
+    {
+      "presentationCode": "365933",
+      "availabilityRatio": 0.5751
+    },
+    {
+      "presentationCode": "365934",
+      "availabilityRatio": 0.9804
+    },
+    {
+      "presentationCode": "365935",
+      "availabilityRatio": 0.9346
+    },
+    {
+      "presentationCode": "365936",
+      "availabilityRatio": 0.9673
+    },
+    {
+      "presentationCode": "365937",
+      "availabilityRatio": 0.977
+    },
+    {
+      "presentationCode": "365938",
+      "availabilityRatio": 0.9425
+    },
+    {
+      "presentationCode": "365939",
+      "availabilityRatio": 0.8161
+    },
+    {
+      "presentationCode": "365940",
+      "availabilityRatio": 0.977
+    },
+    {
+      "presentationCode": "365941",
+      "availabilityRatio": 0.977
+    },
+    {
+      "presentationCode": "365942",
+      "availabilityRatio": 0.977
+    },
+    {
+      "presentationCode": "365943",
+      "availabilityRatio": 0.871
+    },
+    {
+      "presentationCode": "365944",
+      "availabilityRatio": 0.9309
+    },
+    {
+      "presentationCode": "365945",
+      "availabilityRatio": 0.988
+    },
+    {
+      "presentationCode": "365946",
+      "availabilityRatio": 0.992
+    },
+    {
+      "presentationCode": "365947",
+      "availabilityRatio": 0.9681
+    },
+    {
+      "presentationCode": "365948",
+      "availabilityRatio": 0.9602
+    },
+    {
+      "presentationCode": "365949",
+      "availabilityRatio": 0.9658
+    },
+    {
+      "presentationCode": "365962",
+      "availabilityRatio": 0.5641
+    },
+    {
+      "presentationCode": "365964",
+      "availabilityRatio": 0.9744
+    },
+    {
+      "presentationCode": "365966",
+      "availabilityRatio": 0.9573
+    },
+    {
+      "presentationCode": "366027",
+      "availabilityRatio": 0.9661
+    },
+    {
+      "presentationCode": "366028",
+      "availabilityRatio": 0.9576
+    },
+    {
+      "presentationCode": "366029",
+      "availabilityRatio": 0.5085
+    },
+    {
+      "presentationCode": "366033",
+      "availabilityRatio": 0.9746
+    },
+    {
+      "presentationCode": "366037",
+      "availabilityRatio": 0.7119
+    },
+    {
+      "presentationCode": "366038",
+      "availabilityRatio": 0.9407
+    },
+    {
+      "presentationCode": "366039",
+      "availabilityRatio": 0.9322
+    },
+    {
+      "presentationCode": "366040",
+      "availabilityRatio": 0.9746
+    },
+    {
+      "presentationCode": "366041",
+      "availabilityRatio": 0.8898
+    },
+    {
+      "presentationCode": "366042",
+      "availabilityRatio": 0.9576
+    },
+    {
+      "presentationCode": "366043",
+      "availabilityRatio": 0.9576
+    },
+    {
+      "presentationCode": "366044",
+      "availabilityRatio": 0.9237
+    },
+    {
+      "presentationCode": "366045",
+      "availabilityRatio": 0.9746
+    },
+    {
+      "presentationCode": "366054",
+      "availabilityRatio": 0.9505
+    },
+    {
+      "presentationCode": "366055",
+      "availabilityRatio": 0.978
+    },
+    {
+      "presentationCode": "366056",
+      "availabilityRatio": 0.9725
+    },
+    {
+      "presentationCode": "366057",
+      "availabilityRatio": 0.9835
+    },
+    {
+      "presentationCode": "366059",
+      "availabilityRatio": 0.9835
+    },
+    {
+      "presentationCode": "366060",
+      "availabilityRatio": 0.967
+    },
+    {
+      "presentationCode": "366061",
+      "availabilityRatio": 0.9835
+    },
+    {
+      "presentationCode": "366064",
+      "availabilityRatio": 0.9459
+    },
+    {
+      "presentationCode": "366069",
+      "availabilityRatio": 0.973
+    },
+    {
+      "presentationCode": "366071",
+      "availabilityRatio": 0.955
+    },
+    {
+      "presentationCode": "366076",
+      "availabilityRatio": 0.8739
+    },
+    {
+      "presentationCode": "366083",
+      "availabilityRatio": 0.9853
+    },
+    {
+      "presentationCode": "366084",
+      "availabilityRatio": 0.8824
+    },
+    {
+      "presentationCode": "366087",
+      "availabilityRatio": 1.0
+    },
+    {
+      "presentationCode": "366088",
+      "availabilityRatio": 1.0
+    },
+    {
+      "presentationCode": "366089",
+      "availabilityRatio": 0.7963
+    },
+    {
+      "presentationCode": "366110",
+      "availabilityRatio": 0.9259
+    },
+    {
+      "presentationCode": "366136",
+      "availabilityRatio": 0.8571
+    },
+    {
+      "presentationCode": "366137",
+      "availabilityRatio": 0.3143
+    },
+    {
+      "presentationCode": "366142",
+      "availabilityRatio": 1.0
+    },
+    {
+      "presentationCode": "366148",
+      "availabilityRatio": 0.7321
+    },
+    {
+      "presentationCode": "366149",
+      "availabilityRatio": 0.75
+    },
+    {
+      "presentationCode": "366282",
+      "availabilityRatio": 0.9673
+    },
+    {
+      "presentationCode": "366283",
+      "availabilityRatio": 0.9804
+    },
+    {
+      "presentationCode": "367523",
+      "availabilityRatio": 0.9516
+    },
+    {
+      "presentationCode": "367529",
+      "availabilityRatio": 0.7823
+    },
+    {
+      "presentationCode": "367622",
+      "availabilityRatio": 0.4444
+    }
+  ]
+}
