@@ -1,0 +1,813 @@
+{
+    "date": "2026-11-26",
+    "screenings": [
+        {
+            "presentationCode": "370709",
+            "room": "1",
+            "start": "14:45",
+            "end": "16:30",
+            "title": "בחורים טובים 3",
+            "availabilityRatio": 0.9756
+        },
+        {
+            "presentationCode": "370710",
+            "room": "1",
+            "start": "17:00",
+            "end": "19:00",
+            "title": "וושינגטון הצעיר",
+            "availabilityRatio": 0.9756
+        },
+        {
+            "presentationCode": "363984",
+            "room": "1",
+            "start": "19:30",
+            "end": "22:08",
+            "title": "ЕВГЕНИЙ ОНЕГИН - Eugene Onéguine",
+            "availabilityRatio": 0.878
+        },
+        {
+            "presentationCode": "370711",
+            "room": "1",
+            "start": "22:45",
+            "end": "00:45",
+            "title": "וושינגטון הצעיר",
+            "availabilityRatio": 0.9756
+        },
+        {
+            "presentationCode": "370717",
+            "room": "2",
+            "start": "14:00",
+            "end": "15:24",
+            "title": "סודות פארק הדינוזאורים",
+            "availabilityRatio": 0.9756
+        },
+        {
+            "presentationCode": "370715",
+            "room": "2",
+            "start": "16:00",
+            "end": "17:46",
+            "title": "הכישרון של גברת הייסמית'",
+            "availabilityRatio": 0.9756
+        },
+        {
+            "presentationCode": "370716",
+            "room": "2",
+            "start": "18:15",
+            "end": "20:01",
+            "title": "הכישרון של גברת הייסמית'",
+            "availabilityRatio": 0.9756
+        },
+        {
+            "presentationCode": "370714",
+            "room": "2",
+            "start": "20:30",
+            "end": "22:27",
+            "title": "האהבות שלנו",
+            "availabilityRatio": 0.8943
+        },
+        {
+            "presentationCode": "370685",
+            "room": "2",
+            "start": "23:00",
+            "end": "00:38",
+            "title": "הנמלט",
+            "availabilityRatio": 0.9756
+        },
+        {
+            "presentationCode": "370718",
+            "room": "3",
+            "start": "00:00",
+            "end": "01:22",
+            "title": "שעתיד לבוא",
+            "availabilityRatio": 0.9876
+        },
+        {
+            "presentationCode": "370683",
+            "room": "3",
+            "start": "14:00",
+            "end": "15:41",
+            "title": "בלב הפרא",
+            "availabilityRatio": 0.9876
+        },
+        {
+            "presentationCode": "370682",
+            "room": "3",
+            "start": "16:15",
+            "end": "17:37",
+            "title": "שעתיד לבוא",
+            "availabilityRatio": 0.9876
+        },
+        {
+            "presentationCode": "370671",
+            "room": "3",
+            "start": "18:10",
+            "end": "19:32",
+            "title": "שעתיד לבוא",
+            "availabilityRatio": 0.9876
+        },
+        {
+            "presentationCode": "370679",
+            "room": "3",
+            "start": "20:10",
+            "end": "21:32",
+            "title": "שעתיד לבוא",
+            "availabilityRatio": 0.9876
+        },
+        {
+            "presentationCode": "370680",
+            "room": "3",
+            "start": "22:00",
+            "end": "23:22",
+            "title": "שעתיד לבוא",
+            "availabilityRatio": 0.9876
+        },
+        {
+            "presentationCode": "370677",
+            "room": "4",
+            "start": "15:30",
+            "end": "17:30",
+            "title": "סוס פרא תשע",
+            "availabilityRatio": 0.9815
+        },
+        {
+            "presentationCode": "370676",
+            "room": "4",
+            "start": "18:00",
+            "end": "20:00",
+            "title": "סוס פרא תשע",
+            "availabilityRatio": 0.9815
+        },
+        {
+            "presentationCode": "370675",
+            "room": "4",
+            "start": "20:30",
+            "end": "22:30",
+            "title": "סוס פרא תשע",
+            "availabilityRatio": 0.9691
+        },
+        {
+            "presentationCode": "370678",
+            "room": "4",
+            "start": "23:00",
+            "end": "00:45",
+            "title": "בעל בהזמנה",
+            "availabilityRatio": 0.9691
+        },
+        {
+            "presentationCode": "370630",
+            "room": "5",
+            "start": "14:00",
+            "end": "16:40",
+            "title": "משחקי הרעב: זריחה על האסיף",
+            "availabilityRatio": 0.985
+        },
+        {
+            "presentationCode": "370629",
+            "room": "5",
+            "start": "17:15",
+            "end": "19:55",
+            "title": "משחקי הרעב: זריחה על האסיף",
+            "availabilityRatio": 0.9725
+        },
+        {
+            "presentationCode": "370628",
+            "room": "5",
+            "start": "20:30",
+            "end": "23:10",
+            "title": "משחקי הרעב: זריחה על האסיף",
+            "availabilityRatio": 0.625
+        },
+        {
+            "presentationCode": "370720",
+            "room": "5",
+            "start": "23:45",
+            "end": "02:25",
+            "title": "משחקי הרעב: זריחה על האסיף",
+            "availabilityRatio": 0.985
+        },
+        {
+            "presentationCode": "370674",
+            "room": "6",
+            "start": "14:15",
+            "end": "15:57",
+            "title": "הבדחן",
+            "availabilityRatio": 0.9836
+        },
+        {
+            "presentationCode": "370673",
+            "room": "6",
+            "start": "16:30",
+            "end": "18:12",
+            "title": "הבדחן",
+            "availabilityRatio": 0.9508
+        },
+        {
+            "presentationCode": "370672",
+            "room": "6",
+            "start": "18:45",
+            "end": "20:27",
+            "title": "הבדחן",
+            "availabilityRatio": 0.9672
+        },
+        {
+            "presentationCode": "370681",
+            "room": "6",
+            "start": "21:00",
+            "end": "22:42",
+            "title": "הבדחן",
+            "availabilityRatio": 0.8934
+        },
+        {
+            "presentationCode": "370721",
+            "room": "6",
+            "start": "23:15",
+            "end": "00:57",
+            "title": "הבדחן",
+            "availabilityRatio": 0.9508
+        },
+        {
+            "presentationCode": "370708",
+            "room": "7",
+            "start": "14:45",
+            "end": "16:30",
+            "title": "פגוש את הכלה",
+            "availabilityRatio": 0.9872
+        },
+        {
+            "presentationCode": "370707",
+            "room": "7",
+            "start": "17:00",
+            "end": "18:45",
+            "title": "פגוש את הכלה",
+            "availabilityRatio": 0.9744
+        },
+        {
+            "presentationCode": "370706",
+            "room": "7",
+            "start": "19:15",
+            "end": "21:00",
+            "title": "פגוש את הכלה",
+            "availabilityRatio": 0.9329
+        },
+        {
+            "presentationCode": "370705",
+            "room": "7",
+            "start": "21:30",
+            "end": "23:15",
+            "title": "פגוש את הכלה",
+            "availabilityRatio": 0.8435
+        },
+        {
+            "presentationCode": "370722",
+            "room": "7",
+            "start": "23:45",
+            "end": "01:30",
+            "title": "פגוש את הכלה",
+            "availabilityRatio": 0.9936
+        },
+        {
+            "presentationCode": "370723",
+            "room": "8",
+            "start": "00:00",
+            "end": "01:35",
+            "title": "לאן",
+            "availabilityRatio": 0.9804
+        },
+        {
+            "presentationCode": "370701",
+            "room": "8",
+            "start": "15:30",
+            "end": "16:50",
+            "title": "שון כבשון: מצמרר מצחוק",
+            "availabilityRatio": 0.9804
+        },
+        {
+            "presentationCode": "370702",
+            "room": "8",
+            "start": "17:15",
+            "end": "18:46",
+            "title": "קופה ראשית",
+            "availabilityRatio": 0.9804
+        },
+        {
+            "presentationCode": "370703",
+            "room": "8",
+            "start": "19:15",
+            "end": "20:50",
+            "title": "לאן",
+            "availabilityRatio": 0.9804
+        },
+        {
+            "presentationCode": "370704",
+            "room": "8",
+            "start": "21:20",
+            "end": "23:30",
+            "title": "יער פרא",
+            "availabilityRatio": 0.9281
+        },
+        {
+            "presentationCode": "370700",
+            "room": "9",
+            "start": "15:10",
+            "end": "17:30",
+            "title": "שם קוד טהרן",
+            "availabilityRatio": 1.0
+        },
+        {
+            "presentationCode": "370690",
+            "room": "9",
+            "start": "18:00",
+            "end": "20:20",
+            "title": "שם קוד טהרן",
+            "availabilityRatio": 0.977
+        },
+        {
+            "presentationCode": "370698",
+            "room": "9",
+            "start": "20:50",
+            "end": "23:10",
+            "title": "שם קוד טהרן",
+            "availabilityRatio": 0.931
+        },
+        {
+            "presentationCode": "370724",
+            "room": "9",
+            "start": "23:45",
+            "end": "02:05",
+            "title": "שם קוד טהרן",
+            "availabilityRatio": 0.954
+        },
+        {
+            "presentationCode": "370725",
+            "room": "10",
+            "start": "00:00",
+            "end": "02:02",
+            "title": "קלאב קיד",
+            "availabilityRatio": 0.9862
+        },
+        {
+            "presentationCode": "370697",
+            "room": "10",
+            "start": "14:00",
+            "end": "16:02",
+            "title": "קלאב קיד",
+            "availabilityRatio": 0.9862
+        },
+        {
+            "presentationCode": "370696",
+            "room": "10",
+            "start": "16:30",
+            "end": "18:32",
+            "title": "קלאב קיד",
+            "availabilityRatio": 0.9862
+        },
+        {
+            "presentationCode": "370695",
+            "room": "10",
+            "start": "19:00",
+            "end": "21:02",
+            "title": "קלאב קיד",
+            "availabilityRatio": 0.9724
+        },
+        {
+            "presentationCode": "370694",
+            "room": "10",
+            "start": "21:30",
+            "end": "23:32",
+            "title": "קלאב קיד",
+            "availabilityRatio": 0.9724
+        },
+        {
+            "presentationCode": "370693",
+            "room": "11",
+            "start": "14:30",
+            "end": "16:06",
+            "title": "מרגלים מהאגדות",
+            "availabilityRatio": 0.992
+        },
+        {
+            "presentationCode": "370692",
+            "room": "11",
+            "start": "16:45",
+            "end": "19:25",
+            "title": "משחקי הרעב: זריחה על האסיף",
+            "availabilityRatio": 0.9721
+        },
+        {
+            "presentationCode": "370691",
+            "room": "11",
+            "start": "20:00",
+            "end": "22:40",
+            "title": "משחקי הרעב: זריחה על האסיף",
+            "availabilityRatio": 0.6972
+        },
+        {
+            "presentationCode": "370726",
+            "room": "11",
+            "start": "23:15",
+            "end": "01:55",
+            "title": "משחקי הרעב: זריחה על האסיף",
+            "availabilityRatio": 0.9681
+        },
+        {
+            "presentationCode": "370727",
+            "room": "12",
+            "start": "00:00",
+            "end": "01:40",
+            "title": "הכריסטופרים",
+            "availabilityRatio": 0.9744
+        },
+        {
+            "presentationCode": "370655",
+            "room": "12",
+            "start": "14:25",
+            "end": "16:14",
+            "title": "עצמאות",
+            "availabilityRatio": 0.9744
+        },
+        {
+            "presentationCode": "370656",
+            "room": "12",
+            "start": "16:45",
+            "end": "18:45",
+            "title": "סקרוג'",
+            "availabilityRatio": 0.9487
+        },
+        {
+            "presentationCode": "370657",
+            "room": "12",
+            "start": "19:15",
+            "end": "20:55",
+            "title": "הכריסטופרים",
+            "availabilityRatio": 0.906
+        },
+        {
+            "presentationCode": "370699",
+            "room": "12",
+            "start": "21:30",
+            "end": "23:30",
+            "title": "סקרוג'",
+            "availabilityRatio": 0.906
+        },
+        {
+            "presentationCode": "370654",
+            "room": "13",
+            "start": "15:15",
+            "end": "17:15",
+            "title": "איך לשדוד בנק",
+            "availabilityRatio": 0.9746
+        },
+        {
+            "presentationCode": "370653",
+            "room": "13",
+            "start": "17:45",
+            "end": "19:45",
+            "title": "איך לשדוד בנק",
+            "availabilityRatio": 0.9746
+        },
+        {
+            "presentationCode": "370652",
+            "room": "13",
+            "start": "20:15",
+            "end": "22:15",
+            "title": "איך לשדוד בנק",
+            "availabilityRatio": 0.8136
+        },
+        {
+            "presentationCode": "371240",
+            "room": "13",
+            "start": "23:00",
+            "end": "01:40",
+            "title": "משחקי הרעב: זריחה על האסיף",
+            "availabilityRatio": 0.9746
+        },
+        {
+            "presentationCode": "370647",
+            "room": "14",
+            "start": "15:00",
+            "end": "16:30",
+            "title": "שרק - חגיגות 25 שנה!",
+            "availabilityRatio": 0.9322
+        },
+        {
+            "presentationCode": "370649",
+            "room": "14",
+            "start": "17:00",
+            "end": "18:47",
+            "title": "שיעור באהבה",
+            "availabilityRatio": 0.9746
+        },
+        {
+            "presentationCode": "370650",
+            "room": "14",
+            "start": "19:15",
+            "end": "22:09",
+            "title": "לראות את הכל",
+            "availabilityRatio": 0.6102
+        },
+        {
+            "presentationCode": "371241",
+            "room": "14",
+            "start": "22:45",
+            "end": "01:39",
+            "title": "לראות את הכל",
+            "availabilityRatio": 0.9576
+        },
+        {
+            "presentationCode": "370646",
+            "room": "15",
+            "start": "14:00",
+            "end": "16:52",
+            "title": "האודיסאה",
+            "availabilityRatio": 0.9746
+        },
+        {
+            "presentationCode": "370645",
+            "room": "15",
+            "start": "17:30",
+            "end": "20:22",
+            "title": "האודיסאה",
+            "availabilityRatio": 0.9746
+        },
+        {
+            "presentationCode": "370659",
+            "room": "15",
+            "start": "21:00",
+            "end": "22:27",
+            "title": "תמונות יפואיות 2",
+            "availabilityRatio": 0.8898
+        },
+        {
+            "presentationCode": "370658",
+            "room": "15",
+            "start": "23:00",
+            "end": "00:43",
+            "title": "מחר יהיה טוב",
+            "availabilityRatio": 0.9746
+        },
+        {
+            "presentationCode": "370728",
+            "room": "16",
+            "start": "00:00",
+            "end": "01:48",
+            "title": "קלייפייס",
+            "availabilityRatio": 0.9615
+        },
+        {
+            "presentationCode": "370660",
+            "room": "16",
+            "start": "14:00",
+            "end": "16:54",
+            "title": "לראות את הכל",
+            "availabilityRatio": 0.956
+        },
+        {
+            "presentationCode": "370661",
+            "room": "16",
+            "start": "17:20",
+            "end": "20:14",
+            "title": "לראות את הכל",
+            "availabilityRatio": 0.9451
+        },
+        {
+            "presentationCode": "370662",
+            "room": "16",
+            "start": "20:40",
+            "end": "23:34",
+            "title": "לראות את הכל",
+            "availabilityRatio": 0.511
+        },
+        {
+            "presentationCode": "370730",
+            "room": "17",
+            "start": "00:00",
+            "end": "01:55",
+            "title": "נמר של נייר",
+            "availabilityRatio": 0.9835
+        },
+        {
+            "presentationCode": "370666",
+            "room": "17",
+            "start": "14:30",
+            "end": "15:58",
+            "title": "פיניק: להציל את המפלצות",
+            "availabilityRatio": 0.9835
+        },
+        {
+            "presentationCode": "370663",
+            "room": "17",
+            "start": "16:30",
+            "end": "18:25",
+            "title": "נמר של נייר",
+            "availabilityRatio": 0.9835
+        },
+        {
+            "presentationCode": "370664",
+            "room": "17",
+            "start": "19:00",
+            "end": "20:55",
+            "title": "נמר של נייר",
+            "availabilityRatio": 0.9835
+        },
+        {
+            "presentationCode": "370665",
+            "room": "17",
+            "start": "21:30",
+            "end": "23:25",
+            "title": "נמר של נייר",
+            "availabilityRatio": 0.9725
+        },
+        {
+            "presentationCode": "370667",
+            "room": "18",
+            "start": "15:30",
+            "end": "17:02",
+            "title": "נעלמת ללא עקבות",
+            "availabilityRatio": 0.9369
+        },
+        {
+            "presentationCode": "370668",
+            "room": "18",
+            "start": "17:30",
+            "end": "19:02",
+            "title": "נעלמת ללא עקבות",
+            "availabilityRatio": 0.973
+        },
+        {
+            "presentationCode": "370669",
+            "room": "18",
+            "start": "19:30",
+            "end": "21:02",
+            "title": "נעלמת ללא עקבות",
+            "availabilityRatio": 0.955
+        },
+        {
+            "presentationCode": "370670",
+            "room": "18",
+            "start": "21:30",
+            "end": "23:02",
+            "title": "נעלמת ללא עקבות",
+            "availabilityRatio": 0.8829
+        },
+        {
+            "presentationCode": "370731",
+            "room": "18",
+            "start": "23:45",
+            "end": "01:17",
+            "title": "נעלמת ללא עקבות",
+            "availabilityRatio": 0.973
+        },
+        {
+            "presentationCode": "370631",
+            "room": "19",
+            "start": "16:15",
+            "end": "18:55",
+            "title": "משחקי הרעב: זריחה על האסיף",
+            "availabilityRatio": 0.9902
+        },
+        {
+            "presentationCode": "370632",
+            "room": "19",
+            "start": "19:30",
+            "end": "22:10",
+            "title": "משחקי הרעב: זריחה על האסיף",
+            "availabilityRatio": 0.9608
+        },
+        {
+            "presentationCode": "370633",
+            "room": "19",
+            "start": "22:45",
+            "end": "01:25",
+            "title": "משחקי הרעב: זריחה על האסיף",
+            "availabilityRatio": 0.9608
+        },
+        {
+            "presentationCode": "370634",
+            "room": "20",
+            "start": "14:00",
+            "end": "16:40",
+            "title": "משחקי הרעב: זריחה על האסיף",
+            "availabilityRatio": 1.0
+        },
+        {
+            "presentationCode": "370635",
+            "room": "20",
+            "start": "17:15",
+            "end": "19:55",
+            "title": "משחקי הרעב: זריחה על האסיף",
+            "availabilityRatio": 0.9516
+        },
+        {
+            "presentationCode": "370636",
+            "room": "20",
+            "start": "20:30",
+            "end": "23:10",
+            "title": "משחקי הרעב: זריחה על האסיף",
+            "availabilityRatio": 0.7177
+        },
+        {
+            "presentationCode": "370732",
+            "room": "20",
+            "start": "23:45",
+            "end": "02:25",
+            "title": "משחקי הרעב: זריחה על האסיף",
+            "availabilityRatio": 0.9839
+        },
+        {
+            "presentationCode": "370733",
+            "room": "21",
+            "start": "00:15",
+            "end": "02:00",
+            "title": "פגוש את הכלה",
+            "availabilityRatio": 1.0
+        },
+        {
+            "presentationCode": "370642",
+            "room": "21",
+            "start": "17:15",
+            "end": "20:09",
+            "title": "לראות את הכל",
+            "availabilityRatio": 1.0
+        },
+        {
+            "presentationCode": "370637",
+            "room": "21",
+            "start": "20:45",
+            "end": "23:39",
+            "title": "לראות את הכל",
+            "availabilityRatio": 0.963
+        },
+        {
+            "presentationCode": "370734",
+            "room": "22",
+            "start": "00:00",
+            "end": "02:02",
+            "title": "קלאב קיד",
+            "availabilityRatio": 1.0
+        },
+        {
+            "presentationCode": "370638",
+            "room": "22",
+            "start": "17:00",
+            "end": "18:45",
+            "title": "פגוש את הכלה",
+            "availabilityRatio": 1.0
+        },
+        {
+            "presentationCode": "370639",
+            "room": "22",
+            "start": "19:30",
+            "end": "21:15",
+            "title": "פגוש את הכלה",
+            "availabilityRatio": 0.7222
+        },
+        {
+            "presentationCode": "370640",
+            "room": "22",
+            "start": "21:45",
+            "end": "23:30",
+            "title": "פגוש את הכלה",
+            "availabilityRatio": 0.5185
+        },
+        {
+            "presentationCode": "370641",
+            "room": "23",
+            "start": "18:15",
+            "end": "20:55",
+            "title": "משחקי הרעב: זריחה על האסיף",
+            "availabilityRatio": 0.8286
+        },
+        {
+            "presentationCode": "370643",
+            "room": "23",
+            "start": "21:30",
+            "end": "00:10",
+            "title": "משחקי הרעב: זריחה על האסיף",
+            "availabilityRatio": 0.2143
+        },
+        {
+            "presentationCode": "371239",
+            "room": "24",
+            "start": "00:00",
+            "end": "02:40",
+            "title": "משחקי הרעב: זריחה על האסיף",
+            "availabilityRatio": 1.0
+        },
+        {
+            "presentationCode": "370644",
+            "room": "24",
+            "start": "18:00",
+            "end": "20:02",
+            "title": "קלאב קיד",
+            "availabilityRatio": 1.0
+        },
+        {
+            "presentationCode": "371238",
+            "room": "24",
+            "start": "20:45",
+            "end": "23:25",
+            "title": "משחקי הרעב: זריחה על האסיף",
+            "availabilityRatio": 0.8929
+        }
+    ]
+}
